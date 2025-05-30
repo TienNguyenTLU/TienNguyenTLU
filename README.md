@@ -1,10 +1,5 @@
 # 💫About Me :
 Hi, I'm Tien 👋
-🎮 Aspiring Game Developer | 🎨 3D Design Enthusiast | 🧠 UI/UX Explorer
-
-I'm currently studying Game Design and passionate about building immersive and creative experiences. My strengths lie in game development, 3D modeling, and UI/UX design.
-
-I'm looking forward to working in a dynamic and creative environment where I can grow and contribute with enthusiasm.
 
 🏫 Thuyloi University – Major in Software Engineering
 
